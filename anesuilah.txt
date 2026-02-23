@@ -15,6 +15,7 @@
     <!-- SEO Meta Tags-->
     <meta name="description"
       content="ANTOHOKI merupakan situs slot 88 dengan sarana bermain yang nyaman aman dan terpercaya pastinya dilengkapi segala jenis permainan dan pasaran pools lengkap dengan grafis yang sangat memanjakan mata hingga kemenangan yang mudah di server Thailand.">
+      <meta name="keywords" content="antohoki, link antohoki, login antohoki, link alternatif antohoki, anto hoki, daftar antohoki"/>
     <meta name="keywords" content="ANTOHOKI">
     <meta property="og:image" content="https://antohoki-1t3.pages.dev/ah1.png">
     <link rel="alternate" type="application/rss+xml" title="Rss Service Feed" href="https://www.seoclerk.com/rss">
