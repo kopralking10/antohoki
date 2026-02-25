@@ -9,7 +9,7 @@
 <link rel="icon" type="image/x-icon" href="https://gambardunia.xyz/antohoki/favicon1.png" />
 <link rel="apple-touch-icon" href="https://gambardunia.xyz/antohoki/favicon1.png">
 <link rel="canonical" href="https://amadodetailing.com/">
-<link rel="amphtml" href="https://izin-ye-bang.pages.dev/" />
+<link rel="amphtml" href="https://punten-abg.pages.dev/" />
 <link as='image' href='https://antohoki-1t3.pages.dev/bubun.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -230,7 +230,7 @@ ga('require', 'GTM-KL7BC3L');
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://izin-ye-bang.pages.dev/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://punten-abg.pages.dev/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 DAFTAR AKUN
 
@@ -354,9 +354,9 @@ LINK SLOT
 
         
                           <div class="n-columns-2">
-                                <a href="https://izin-ye-bang.pages.dev/" rel="nofollow noreferrer"
+                                <a href="https://punten-abg.pages.dev/" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://izin-ye-bang.pages.dev/" rel="nofollow noreferrer"
+                               <a href="https://punten-abg.pages.dev/" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -653,8 +653,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://izin-ye-bang.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://izin-ye-bang.pages.dev/" class="btn-x">LOGIN DISINI</a>
+<a href="https://punten-abg.pages.dev/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://punten-abg.pages.dev/" class="btn-x">LOGIN DISINI</a>
 <style>
 .btn-x{
   display:inline-block;
@@ -3053,23 +3053,23 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
     
 
 <div class="ANTOHOKI-fixed-footer">
-  <a href="https://izin-ye-bang.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://punten-abg.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://gambardunia.xyz/antohoki/favicon1.png" alt="BONUS ANTOHOKI">
     PROMO
   </a>
-  <a href="https://izin-ye-bang.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://punten-abg.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://gambardunia.xyz/antohoki/favicon1.png" alt="LOGIN ANTOHOKI">
     LOGIN
   </a>
-  <a href="https://izin-ye-bang.pages.dev/" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://punten-abg.pages.dev/" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://gambardunia.xyz/antohoki/favicon1.png" alt="DAFTAR ANTOHOKI">
     DAFTAR
   </a>
-  <a href="https://izin-ye-bang.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://punten-abg.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://gambardunia.xyz/antohoki/favicon1.png" alt="WHATSAPP ANTOHOKI">
     WHATSAPP
   </a>
-  <a href="https://izin-ye-bang.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://punten-abg.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://gambardunia.xyz/antohoki/favicon1.png" alt="LIVE CHAT ANTOHOKI">
     LIVE CHAT
   </a>
