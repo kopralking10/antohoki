@@ -9,17 +9,17 @@
 	<meta name=description content="ANTOHOKI situs slot gacor hari ini dengan RTP akurat dan peluang mudah menang jackpot. Nikmati game terbaru, pola gacor terbaik, serta proses deposit cepat dan aman setiap hari.">
 	<meta name="keywords" content="Antohoki, Situs Antohoki, Antohoki daftar, link Antohoki, Antohoki login, Slot gacor, Situs slot online"/>
 	<link rel="shortcut icon" href="https://gambardunia.xyz/antohoki/favicon1.png"/>
-	<link rel="canonical" href="https://fkunswagati.ac.id/index_php/contact/"/>
+	<link rel="canonical" href="https://fkunswagati.ac.id/contact/"/>
 	<link rel="amphtml" href="https://fkunswagati-ac-id.pages.dev/"/>
-	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://fkunswagati.ac.id/index_php/contact/"/>
-	<link rel="alternate" media="handheld" href="https://fkunswagati.ac.id/index_php/contact/"/>
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://fkunswagati.ac.id/contact/"/>
+	<link rel="alternate" media="handheld" href="https://fkunswagati.ac.id/contact/"/>
 	<meta name="author" content="ANTOHOKI">
 	<meta property="fb:app_id" content="1331678776889587"/>
 	<meta property="og:title" content="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot"/>
 	<meta property="og:type" content="product"/>
 	<meta property="og:product:currency" content="USD"/>
 	<meta property="og:product:price" content="6.58"/>
-	<meta property="og:url" content="https://fkunswagati.ac.id/index_php/contact/"/>
+	<meta property="og:url" content="https://fkunswagati.ac.id/contact/"/>
 	<meta property="og:image" content="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png"/>
 	<meta property="og:description" content="ANTOHOKI situs slot gacor hari ini dengan RTP akurat dan peluang mudah menang jackpot. Nikmati game terbaru, pola gacor terbaik, serta proses deposit cepat dan aman setiap hari."/>
 	<meta name="robots" content="max-snippet:50, max-image-preview:large"/>
@@ -197,7 +197,7 @@
 		var UPLOAD_URL = "https://img.myipadbox.com/upload/store";
 		var ID = 3783586;
 		var ITEM_NO = "MPD3913W";
-		var CURRENT_URL = "https://fkunswagati.ac.id/index_php/contact/";
+		var CURRENT_URL = "https://fkunswagati.ac.id/contact/";
 
 		var CONTACT = "Bertha";
 		var USER_ID = null;
@@ -218,7 +218,7 @@
 	"sku": "ANTOHOKI SLOT",
 	"offers": {
 		"@type": "Offer",
-		"url": "https://fkunswagati.ac.id/index_php/contact/",
+		"url": "https://fkunswagati.ac.id/contact/",
 		"priceCurrency": "IDR",
 		"price": "25000",
 		"availability": "https://schema.org/InStock",
@@ -298,7 +298,7 @@
 			"@type": "ListItem",
 			"position": 1,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "ANTOHOKI"
 			}
 		},
@@ -306,7 +306,7 @@
 			"@type": "ListItem",
 			"position": 2,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "SLOT 88"
 			}
 		},
@@ -314,7 +314,7 @@
 			"@type": "ListItem",
 			"position": 3,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "SLOT GACOR"
 			}
 		},
@@ -322,7 +322,7 @@
 			"@type": "ListItem",
 			"position": 4,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "SLOT ONLINE"
 			}
 		},
@@ -330,7 +330,7 @@
 			"@type": "ListItem",
 			"position": 5,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "SITUS TOTO"
 			}
 		},
@@ -338,7 +338,7 @@
 			"@type": "ListItem",
 			"position": 6,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "SITUS SLOT"
 			}
 		},
@@ -346,7 +346,7 @@
 			"@type": "ListItem",
 			"position": 7,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "SLOT ASIA"
 			}
 		},
@@ -354,7 +354,7 @@
 			"@type": "ListItem",
 			"position": 8,
 			"item": {
-			"@id": "https://fkunswagati.ac.id/index_php/contact/",
+			"@id": "https://fkunswagati.ac.id/contact/",
 			"name": "ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot"
 			}
 		}
@@ -366,7 +366,7 @@
 	"@context": "https://schema.org",
 	"@type": "Offer",
 	"name": "ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot",
-	"url": "https://fkunswagati.ac.id/index_php/contact/",
+	"url": "https://fkunswagati.ac.id/contact/",
 	"priceCurrency": "IDR",
 	"price": "25000",
 	"priceValidUntil": "2026-12-31",
@@ -376,7 +376,7 @@
 	"seller": {
 		"@type": "Organization",
 		"name": "ANTOHOKI",
-		"url": "https://fkunswagati.ac.id/index_php/contact/",
+		"url": "https://fkunswagati.ac.id/contact/",
 		"logo": "https://file001.nxtengine.net/open-img-pub/brands/antohoki2.gif"
 	},
 	"description": "ANTOHOKI situs slot gacor hari ini dengan RTP akurat dan peluang mudah menang jackpot. Nikmati game terbaru, pola gacor terbaik, serta proses deposit cepat dan aman setiap hari."
@@ -730,7 +730,7 @@
 					var qs = a.hasClass("chatBtn") ? "?contact=" + encodeURIComponent(a.attr("contact")) : "";
 					chatFrm = new MyMessageFrame("chat", "INQUIRY", getCookie("TID"), {   
 							container: "#msgDiv",
-							toUrl: "https://fkunswagati.ac.id/index_php/contact/",
+							toUrl: "https://fkunswagati.ac.id/contact/",
 							msgUrl: "https://www.sunsky-online.com/user/talk!getMyMessages.do" + qs,
 							readUrl: "https://www.sunsky-online.com/user/talk!updateMyMessagesToRead.do",
 							sendUrl: "https://www.sunsky-online.com/user/talk!sendMessageToContact.do" + qs,
@@ -912,7 +912,7 @@
 				$('#erpSelector').removeClass('down');
 				$('#erpSelectorList').hide();
 				if (!false) {
-					window.location = "https://fkunswagati.ac.id/index_php/contact/";
+					window.location = "https://fkunswagati.ac.id/contact/";
 					return;
 				}
 				
@@ -1013,7 +1013,7 @@
 		
 		function uploadToShopify(logined) {
 			if (!logined) {
-				window.location = "https://fkunswagati.ac.id/index_php/contact/";
+				window.location = "https://fkunswagati.ac.id/contact/";
 				return;
 			}
 		
@@ -1254,7 +1254,7 @@
 					</li>
 					<li id="h5_qr_code">
 						<div>
-							<a href="https://fkunswagati.ac.id/index_php/contact/">
+							<a href="https://fkunswagati.ac.id/contact/">
 								<span class="icon client"></span>
 								<span>Mobile</span>
 							</a>
@@ -1264,7 +1264,7 @@
 										<!--
 						<li>
 							<div>
-								<a target="_blank" href="https://fkunswagati.ac.id/index_php/contact/">
+								<a target="_blank" href="https://fkunswagati.ac.id/contact/">
 									<span class="icon app"></span>
 									<span>Save big on our app!</span>
 								</a>
@@ -1274,7 +1274,7 @@
 						-->
 											<li>
 							<div>
-								<a id="msgMenu" target="_blank" href="https://fkunswagati.ac.id/index_php/contact/">
+								<a id="msgMenu" target="_blank" href="https://fkunswagati.ac.id/contact/">
 									<span class="icon online-message"></span>
 									<span>Message</span>
 									<span class="msgNot"></span>
@@ -1310,21 +1310,21 @@
 								</a>
 							</div>
 							<span class="top-language-caotainer">
-								<a href="https://fkunswagati.ac.id/index_php/contact/">English</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">Français</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">Español</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">Português</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">Deutsch</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">Italiano</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">Nederlands</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/"> عربي </a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">日本語</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">한국어</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">ไทย</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">Tiếng Việt</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">中文简体</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">中文繁体</a>
-								<a href="https://fkunswagati.ac.id/index_php/contact/">русский язык</a>
+								<a href="https://fkunswagati.ac.id/contact/">English</a>
+								<a href="https://fkunswagati.ac.id/contact/">Français</a>
+								<a href="https://fkunswagati.ac.id/contact/">Español</a>
+								<a href="https://fkunswagati.ac.id/contact/">Português</a>
+								<a href="https://fkunswagati.ac.id/contact/">Deutsch</a>
+								<a href="https://fkunswagati.ac.id/contact/">Italiano</a>
+								<a href="https://fkunswagati.ac.id/contact/">Nederlands</a>
+								<a href="https://fkunswagati.ac.id/contact/"> عربي </a>
+								<a href="https://fkunswagati.ac.id/contact/">日本語</a>
+								<a href="https://fkunswagati.ac.id/contact/">한국어</a>
+								<a href="https://fkunswagati.ac.id/contact/">ไทย</a>
+								<a href="https://fkunswagati.ac.id/contact/">Tiếng Việt</a>
+								<a href="https://fkunswagati.ac.id/contact/">中文简体</a>
+								<a href="https://fkunswagati.ac.id/contact/">中文繁体</a>
+								<a href="https://fkunswagati.ac.id/contact/">русский язык</a>
 							</span>
 						</li>
 					</ul>
@@ -1335,7 +1335,7 @@
 			<div class="top-content">
 				<div class="top-content-left">
 					<div class="logo">
-						<a href="https://fkunswagati.ac.id/index_php/contact/">
+						<a href="https://fkunswagati.ac.id/contact/">
 							<img src="https://file001.nxtengine.net/open-img-pub/brands/antohoki2.gif" style="width:195px; padding-top:18px;" alt="ANTOHOKI Logo">
 						</a>
 					</div>
@@ -1345,7 +1345,7 @@
 					<div class="top-content-right-nav">
 						<ul style="display:flex; align-items:center; gap:10px;">
 							<li class="top-wish" style="display:flex; align-items:center;">
-								<a href="https://fkunswagati.ac.id/index_php/contact/" style="display:flex; align-items:center;">
+								<a href="https://fkunswagati.ac.id/contact/" style="display:flex; align-items:center;">
 									<img src="https://gambardunia.xyz/antohoki/favicon1.png" alt="Wishlist" style="width:22px; height:auto;">
 								</a>
 							</li>
@@ -1538,7 +1538,7 @@
 								<input id="img-search-input" type="text" value="" placeholder="Paste image URL" style="width: 100%;border: 0;padding: 5px;outline: none;color:#666">
 							</div>
 						</div>
-						<form action="https://fkunswagati.ac.id/index_php/contact/" class="top-search-form" method="get">
+						<form action="https://fkunswagati.ac.id/contact/" class="top-search-form" method="get">
 							<div class="top-content-left">
 								<div class="top-search-category">
 									<div class="top-search-select">
@@ -1668,19 +1668,19 @@
 		<div class="top-category">
 			<div class="content">
 				<div style="z-index:110" id="product-category" class="product-category ">
-					<a href="https://fkunswagati.ac.id/index_php/contact/">
+					<a href="https://fkunswagati.ac.id/contact/">
 				<span class="shop-by">ANTOHOKI</span>
 				</a>
 			</div>
 
 												
 				<ul class="top-special-nav">
-					<li><a href="https://fkunswagati.ac.id/index_php/contact/"><span>SLOT 88</span></a></li>
-					<li><a href="https://fkunswagati.ac.id/index_php/contact/"><span>SLOT GACOR</span></a></li>
-					<li><a href="https://fkunswagati.ac.id/index_php/contact/"><span>SLOT ONLINE</span></a></li>
-					<li><a href="https://fkunswagati.ac.id/index_php/contact/"><span>SITUS TOTO</span></a></li>
-					<li><a href="https://fkunswagati.ac.id/index_php/contact/"><span>SITUS SLOT</span></a></li>
-					<li><a href="https://fkunswagati.ac.id/index_php/contact/"><span>SLOT ASIA</span></a></li>
+					<li><a href="https://fkunswagati.ac.id/contact/"><span>SLOT 88</span></a></li>
+					<li><a href="https://fkunswagati.ac.id/contact/"><span>SLOT GACOR</span></a></li>
+					<li><a href="https://fkunswagati.ac.id/contact/"><span>SLOT ONLINE</span></a></li>
+					<li><a href="https://fkunswagati.ac.id/contact/"><span>SITUS TOTO</span></a></li>
+					<li><a href="https://fkunswagati.ac.id/contact/"><span>SITUS SLOT</span></a></li>
+					<li><a href="https://fkunswagati.ac.id/contact/"><span>SLOT ASIA</span></a></li>
 				</ul>
 			</div>
 		</div>
@@ -1712,13 +1712,13 @@
 					<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 					<a class="itemprev" href="#">Previous</a>
 				</div>
-		<A class="recommend icon" href="https://fkunswagati.ac.id/index_php/contact/" onclick="mailToFriends()">Mail to Friends</A> 
-		<A class="fav-btn fav2 icon " href="https://fkunswagati.ac.id/index_php/contact/" onclick="addToFavList(this)" rel="3783586">Add to Wishlist</A>
+		<A class="recommend icon" href="https://fkunswagati.ac.id/contact/" onclick="mailToFriends()">Mail to Friends</A> 
+		<A class="fav-btn fav2 icon " href="https://fkunswagati.ac.id/contact/" onclick="addToFavList(this)" rel="3783586">Add to Wishlist</A>
 		<DIV class=breadCrumb>
-			<A class="catpos" catId="0" href="https://fkunswagati.ac.id/index_php/contact/" style="color: white;">ANTOHOKI</A>
-						»&nbsp; <A class="catpos" catId="102159" href="https://fkunswagati.ac.id/index_php/contact/" style="color: white;">ANTOHOKI Daftar</A>
-						»&nbsp; <A class="catpos" catId="101193" href="https://fkunswagati.ac.id/index_php/contact/" style="color: white;">ANTOHOKI Login</A>
-						»&nbsp; <A class="catpos" catId="101209" href="https://fkunswagati.ac.id/index_php/contact/" style="color: white;">ANTOHOKI Slot</A>
+			<A class="catpos" catId="0" href="https://fkunswagati.ac.id/contact/" style="color: white;">ANTOHOKI</A>
+						»&nbsp; <A class="catpos" catId="102159" href="https://fkunswagati.ac.id/contact/" style="color: white;">ANTOHOKI Daftar</A>
+						»&nbsp; <A class="catpos" catId="101193" href="https://fkunswagati.ac.id/contact/" style="color: white;">ANTOHOKI Login</A>
+						»&nbsp; <A class="catpos" catId="101209" href="https://fkunswagati.ac.id/contact/" style="color: white;">ANTOHOKI Slot</A>
 				</DIV>
 	</DIV>
 	<br>
@@ -2044,7 +2044,7 @@
 		
 
 		<div class="info-box">
-			<p><a style="color:rgb(255, 0, 0);" href="https://fkunswagati.ac.id/index_php/contact/">ANTOHOKI</a> hadir sebagai situs slot gacor hari ini dengan RTP akurat yang memberikan peluang mudah menang jackpot bagi para pemain. Dengan sistem modern dan update game terbaru setiap hari, ANTOHOKI menjadi pilihan terbaik untuk menikmati permainan slot online dengan peluang kemenangan lebih tinggi dan pengalaman bermain yang maksimal.</p>
+			<p><a style="color:rgb(255, 0, 0);" href="https://fkunswagati.ac.id/contact/">ANTOHOKI</a> hadir sebagai situs slot gacor hari ini dengan RTP akurat yang memberikan peluang mudah menang jackpot bagi para pemain. Dengan sistem modern dan update game terbaru setiap hari, ANTOHOKI menjadi pilihan terbaik untuk menikmati permainan slot online dengan peluang kemenangan lebih tinggi dan pengalaman bermain yang maksimal.</p>
 			<p>Sebagai situs slot gacor terpercaya, ANTOHOKI menyediakan berbagai pilihan game populer dengan RTP live dan pola gacor yang selalu diperbarui. Setiap permainan dirancang menggunakan teknologi terbaru untuk memastikan performa stabil, akses cepat, dan peluang menang yang lebih optimal bagi semua member.</p>
 			<p>Keunggulan utama ANTOHOKI terletak pada kemudahan akses dan tampilan yang user-friendly. Baik melalui desktop maupun mobile, semua fitur dapat digunakan dengan lancar tanpa hambatan. Proses deposit dan withdraw juga dibuat cepat, praktis, dan aman sehingga pemain bisa fokus menikmati permainan tanpa kendala.</p>
 			<p>Tidak hanya itu, ANTOHOKI juga menyediakan informasi slot gacor hari ini, termasuk rekomendasi game, RTP tertinggi, serta pola bermain yang bisa membantu meningkatkan peluang jackpot. Semua ini didukung dengan layanan customer service profesional yang siap membantu 24 jam setiap hari.</p>
@@ -2063,8 +2063,8 @@
 					<b>Wholesale:</b>&nbsp;<span class="bold red">$6.58</span>	
 				</div>
 		<div class="fixtopoption">
-			<a id="fixtopaddtocart" class="fixtopbtn cart-btn" href="https://fkunswagati.ac.id/index_php/contact/" onclick="return addToCart(this)">Add to Cart</a>
-			<a id="fixtopcheckout" class="fixtopbtn cart-btn" href="https://fkunswagati.ac.id/index_php/contact/" onclick="return addToCart(this, true)">Check Out</a>
+			<a id="fixtopaddtocart" class="fixtopbtn cart-btn" href="https://fkunswagati.ac.id/contact/" onclick="return addToCart(this)">Add to Cart</a>
+			<a id="fixtopcheckout" class="fixtopbtn cart-btn" href="https://fkunswagati.ac.id/contact/" onclick="return addToCart(this, true)">Check Out</a>
 			<a rel="#overview" class="fixtopnav">Description</a>
 			<a rel="#morePictures" class="fixtopnav">More Pictures</a>
 			<a rel="#reviews" class="fixtopnav">Reviews(8)</a>
@@ -2082,7 +2082,7 @@
 	<div class="productBuyButton" style="margin-top:7px;">
 		<input type="hidden" class="productId" name="productId" value="3783586"/>
 		<input type="hidden" class="specsId" name="specsId"/>
-		<input type="hidden" name="toUrl" value="https://fkunswagati.ac.id/index_php/contact/"/>
+		<input type="hidden" name="toUrl" value="https://fkunswagati.ac.id/contact/"/>
 
 				
 		<style>
@@ -2449,7 +2449,7 @@
 				</div>
 				<div class="product-shipping-more">
 					<img src="https://img.myipadbox.com/htdocs/images/shiptime.gif" border=0 align=absmiddle/>
-					<a href="https://fkunswagati.ac.id/index_php/contact/" id="product-show-more-shipping" style="text-decoration:underline;">More Methods</a>
+					<a href="https://fkunswagati.ac.id/contact/" id="product-show-more-shipping" style="text-decoration:underline;">More Methods</a>
 					<DIV class="divWay" id="divWay">
 						<TABLE class=tblWay border=0 cellpadding=5 cellspacing=0 width="100%">
 							<TR style="background-color:#EEEFF0">
@@ -2470,7 +2470,7 @@
 				<div align="right" style="margin-top:5px;">
 					by <span class="shippingWay bold"></span> &nbsp;
 					<img src="https://img.myipadbox.com/htdocs/images/shiptime.gif" border=0 align=absmiddle/>
-					<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="showSWList(event)" style="text-decoration:underline;">More Methods</a>
+					<a href="https://fkunswagati.ac.id/contact/" onclick="showSWList(event)" style="text-decoration:underline;">More Methods</a>
 				</div>
 			</div>
 			<div class="divSC" id="divSCNoWays" style="display:none;margin-top:4px;">
@@ -2491,7 +2491,7 @@
 					<TD align="right" class="contact-info-more">
 				<div class="clearfix">
 					<div style="float:left;display: none;">
-									<A class="global-more" href="https://fkunswagati.ac.id/index_php/contact/" onclick="showChat(event)" title="More Live Chat">More</A>
+									<A class="global-more" href="https://fkunswagati.ac.id/contact/" onclick="showChat(event)" title="More Live Chat">More</A>
 									</div>
 					<DIV class="itemDiv fbLinks" style="float:right;">
 					</DIV>
@@ -2509,7 +2509,7 @@
 			<table id="picTbl" border="0" cellpadding=0 cellspacing=0>
 				<tr>
 					<td>
-						<A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()">
+						<A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()">
 							<DIV id="divSmall" style="position:relative;">
 								<IMG style="width:100%" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot" id="mainImg" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/product_raw/MPD3913W.jpg" border="0" style="max-width:500px;">
 								<div id="divMove" style="position:absolute;display:none;opacity:.5;background:#CCC;width:100px;height:100px;z-index:1000;"></div>
@@ -2527,13 +2527,13 @@
 			<DIV class="scrollImg">
 					<DIV id="picView">
 							<UL class="clearfix" id="picCtn" style="width:371px;display:block">
-									<LI><A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/product_raw/MPD3913W.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
-																											<LI><A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 1" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_1.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
-																																							<LI><A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 2" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_2.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
-																															<LI><A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 3" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_3.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
-																															<LI><A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 4" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_4.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
-																															<LI><A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 5" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_5.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
-																															<LI><A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 6" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_6.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
+									<LI><A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/product_raw/MPD3913W.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
+																											<LI><A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 1" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_1.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
+																																							<LI><A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 2" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_2.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
+																															<LI><A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 3" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_3.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
+																															<LI><A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 4" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_4.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
+																															<LI><A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 5" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_5.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
+																															<LI><A href="https://fkunswagati.ac.id/contact/" onclick="showImgList()"><span></span><IMG class="zoom" alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot - 6" src="https://antohoki-1t3.pages.dev/antohoki-slot-gacor.png" zoom="https://img.myipadbox.com/upload/store/detail_raw/MPD3913W_6.jpg" style="max-width:100%;max-height:100%" border="0"></A></LI>
 																									</UL>
 			</DIV>
 
@@ -2782,8 +2782,8 @@
 			<DIV style="margin-bottom:15px;display: none;">
 			<div style="font-size:14px;font-weight:bold;margin-bottom:10px;">BUY TOGETHER, GET EXTRA DISCOUNT</div>
 			<DIV class="rec-list" style="float:left;" rel="suit">
-				<A class="rec-prev" href="https://fkunswagati.ac.id/index_php/contact/"></A>
-				<A class="rec-next" href="https://fkunswagati.ac.id/index_php/contact/"></A>
+				<A class="rec-prev" href="https://fkunswagati.ac.id/contact/"></A>
+				<A class="rec-next" href="https://fkunswagati.ac.id/contact/"></A>
 				<DIV id="recView-suit" class="recView">
 									<DIV id="recCtn-suit" style="width:1449px;">
 											<div class="prdBox firstBox" align="center" rel="3825143">
@@ -3028,10 +3028,10 @@
 
 			<DIV class="v2_recently_view clearfix" style="padding-top:5px;border-top:solid 1px #e7e7e8;display: none;">
 			<DIV class="v2_recently_view_img">
-							<A href="https://fkunswagati.ac.id/index_php/contact/" target="_blank" title="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot"><IMG alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot" class="imgPrd lazyimg" src="https://img.myipadbox.com/htdocs/images/loading.gif" data-url="https://img.myipadbox.com/upload/store/product/MPD3913W.jpg"></A>
+							<A href="https://fkunswagati.ac.id/contact/" target="_blank" title="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot"><IMG alt="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot" class="imgPrd lazyimg" src="https://img.myipadbox.com/htdocs/images/loading.gif" data-url="https://img.myipadbox.com/upload/store/product/MPD3913W.jpg"></A>
 			</DIV>
 			<DIV class="v2_recently_view_title">
-													<A href="https://fkunswagati.ac.id/index_php/contact/" target="_blank" title="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot">For iPhone 17 Pro Max Black Screen Non-Working Fake Dummy Displa...</A><br>
+													<A href="https://fkunswagati.ac.id/contact/" target="_blank" title="ANTOHOKI ⚡️ Situs Slot Gacor Hari Ini RTP Akurat & Mudah Menang Jackpot">For iPhone 17 Pro Max Black Screen Non-Working Fake Dummy Displa...</A><br>
 				Price: <span class="bold red">$6.58</span>
 			</DIV>
 		
@@ -4312,8 +4312,8 @@
 		</DIV>
 		
 			<DIV class="buyer-recommended-list rec-list" rel="buyer" style="display: none;">
-				<A class="rec-prev" href="https://fkunswagati.ac.id/index_php/contact/"></A>
-				<A class="rec-next" href="https://fkunswagati.ac.id/index_php/contact/"></A>
+				<A class="rec-prev" href="https://fkunswagati.ac.id/contact/"></A>
+				<A class="rec-next" href="https://fkunswagati.ac.id/contact/"></A>
 				<DIV id="recView-buyer" class="recView recommended">
 									<UL id="recCtn-buyer" class="shopcart_cont" style="width:1984px;margin:0;">
 																	<li>
@@ -4356,10 +4356,10 @@
 						
 											<DIV class="models0">
 							<div class='models'>
-																						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('HWL-1070B')" rel="HWL-1070B" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070B.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('HWL-1070R')" rel="HWL-1070R" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070R.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('HWL-1070W')" rel="HWL-1070W" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070W.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('HWL-1070Y')" rel="HWL-1070Y" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070Y.jpg"></a>
+																						<a href="https://fkunswagati.ac.id/contact/" onclick="view('HWL-1070B')" rel="HWL-1070B" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070B.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('HWL-1070R')" rel="HWL-1070R" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070R.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('HWL-1070W')" rel="HWL-1070W" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070W.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('HWL-1070Y')" rel="HWL-1070Y" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL-1070Y.jpg"></a>
 																																		<div class='ClearFloat'></div>
 							</div>
 						</DIV>
@@ -4381,7 +4381,7 @@
 														Wholesale: <strong>$1.84</strong>
 													
 													
-														<A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/ZJHSU_Q0XJ0')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
+														<A href="https://fkunswagati.ac.id/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/ZJHSU_Q0XJ0')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
 																		</div>
 						
 																
@@ -4427,7 +4427,7 @@
 														Wholesale: <strong>$1.01</strong>
 													
 													
-														<A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/dLBqf9S0PcY')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
+														<A href="https://fkunswagati.ac.id/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/dLBqf9S0PcY')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
 																		</div>
 						
 																
@@ -4473,7 +4473,7 @@
 														Wholesale: <strong>$2.28</strong>
 													
 													
-														<A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/M2SmEnV_e7Y')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
+														<A href="https://fkunswagati.ac.id/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/M2SmEnV_e7Y')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
 																		</div>
 						
 																
@@ -4502,9 +4502,9 @@
 						
 											<DIV class="models0">
 							<div class='models'>
-																						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('HWL7017H')" rel="HWL7017H" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL7017H.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('HWL7017LH')" rel="HWL7017LH" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL7017LH.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('HWL7017F')" rel="HWL7017F" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL7017F.jpg"></a>
+																						<a href="https://fkunswagati.ac.id/contact/" onclick="view('HWL7017H')" rel="HWL7017H" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL7017H.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('HWL7017LH')" rel="HWL7017LH" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL7017LH.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('HWL7017F')" rel="HWL7017F" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/HWL7017F.jpg"></a>
 																					<div class='ClearFloat'></div>
 							</div>
 						</DIV>
@@ -4553,10 +4553,10 @@
 						
 											<DIV class="models0">
 							<div class='models'>
-																						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA00216502A')" rel="EDA00216502A" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502A.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA00216502B')" rel="EDA00216502B" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502B.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA00216502C')" rel="EDA00216502C" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502C.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA00216502D')" rel="EDA00216502D" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502D.jpg"></a>
+																						<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA00216502A')" rel="EDA00216502A" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502A.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA00216502B')" rel="EDA00216502B" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502B.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA00216502C')" rel="EDA00216502C" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502C.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA00216502D')" rel="EDA00216502D" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA00216502D.jpg"></a>
 																																															<div class='ClearFloat'></div>
 							</div>
 						</DIV>
@@ -4575,7 +4575,7 @@
 														Wholesale: <strong>$1.30</strong>
 													
 													
-														<A href="https://fkunswagati.ac.id/index_php/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/hsas38a0kCA')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
+														<A href="https://fkunswagati.ac.id/contact/" onclick="showVideo(event, 'https://www.youtube.com/embed/hsas38a0kCA')"><img src="https://img.myipadbox.com/htdocs/images/youtube_p.png" border="0" align="absmiddle" title="Youtube Video"/></A>
 																		</div>
 						
 																
@@ -4603,10 +4603,10 @@
 						
 											<DIV class="models0">
 							<div class='models'>
-																						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA006152601O')" rel="EDA006152601O" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601O.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA006152601B')" rel="EDA006152601B" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601B.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA006152601C')" rel="EDA006152601C" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601C.jpg"></a>
-																													<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="view('EDA006152601D')" rel="EDA006152601D" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601D.jpg"></a>
+																						<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA006152601O')" rel="EDA006152601O" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601O.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA006152601B')" rel="EDA006152601B" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601B.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA006152601C')" rel="EDA006152601C" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601C.jpg"></a>
+																													<a href="https://fkunswagati.ac.id/contact/" onclick="view('EDA006152601D')" rel="EDA006152601D" target="_blank"><span></span><img class="lazyimg" src="https://img.myipadbox.com/htdocs/images/s.gif" data-url="https://img.myipadbox.com/upload/store/product_s/EDA006152601D.jpg"></a>
 																																																																																						<div class='ClearFloat'></div>
 							</div>
 						</DIV>
@@ -4762,7 +4762,7 @@
 			}
 			chatFrmBottom = new MyMessageFrame("chat", "INQUIRY", getCookie("TID"), {   
 					container: "#msgDivBottom",
-					toUrl: "https://fkunswagati.ac.id/index_php/contact/",
+					toUrl: "https://fkunswagati.ac.id/contact/",
 					msgUrl: "https://www.sunsky-online.com/user/talk!getMyMessages.do" + qs,
 					readUrl: "https://www.sunsky-online.com/user/talk!updateMyMessagesToRead.do",
 					sendUrl: "https://www.sunsky-online.com/user/talk!sendMessageToContact.do" + qs,
@@ -4797,13 +4797,13 @@
 			</DIV>
 			<DIV style="float:left;padding-top:5px;">
 				<FORM id="newsletterForm" onsubmit="return false;">
-					»<A href="https://fkunswagati.ac.id/index_php/contact/">Subscribe to Our Newsletter: </A>
+					»<A href="https://fkunswagati.ac.id/contact/">Subscribe to Our Newsletter: </A>
 					<input id="hiddenmsg" type="hidden" value="Your Email Address">
 					<INPUT maxLength=128 id=newsletter_email style="width:160px;vertical-align:middle;" >
 					<INPUT class="footer-go-btn" type="button" value="GO" onclick="subscribeNewsletter()" >
 				</FORM>
 				<div style="">
-					* World Gaming respects your<a style='color:blue;text-decoration:underline' href='https://fkunswagati.ac.id/index_php/contact/'>Privacy</a>        	</div>
+					* World Gaming respects your<a style='color:blue;text-decoration:underline' href='https://fkunswagati.ac.id/contact/'>Privacy</a>        	</div>
 			</DIV>
 			<DIV style="clear:both"></DIV>
 		</DIV>
@@ -4822,7 +4822,7 @@
 										<LI><a href="https://www.sunsky-online.com/order/dropshipping" target="_blank">Drop Shipping</a></LI>
 										<LI><a href="https://www.sunsky-online.com/base/doc!view.do?code=openapi" target="_blank">Open API Services</a></LI>
 										<LI><a href="https://erp.sunsky-online.com/index" target="_blank">Shopify ERP</a></LI>
-										<LI><a href="https://fkunswagati.ac.id/index_php/contact/" target="_blank">OEM Sourcing</a></LI>
+										<LI><a href="https://fkunswagati.ac.id/contact/" target="_blank">OEM Sourcing</a></LI>
 										<LI><a href="https://www.sunsky-online.com/base/doc!view.do?code=privacyNotice" target="_blank">Privacy Notice</a></LI>
 										<LI><a href="https://www.sunsky-online.com/base/doc!view.do?code=termsConditions" target="_blank">Terms of Use</a></LI>
 						</UL>
@@ -6138,7 +6138,7 @@
 		<H4>Message</H4>
 		<P class="cartInfo" style="display:none;"><SPAN id="itemCount" class="red bold"></SPAN>&nbsp;kind(s) of item(s) in cart, total amount: <SPAN id="cartAmount" class="red bold"></SPAN></P>
 		<P class="skin-gray cartInfo" style="display:none;">
-			<A style="background:#6fbb00;color:#fff;padding:2px 5px;border-radius:2px;text-decoration:none;" href="https://fkunswagati.ac.id/index_php/contact/" target="_top">
+			<A style="background:#6fbb00;color:#fff;padding:2px 5px;border-radius:2px;text-decoration:none;" href="https://fkunswagati.ac.id/contact/" target="_top">
 				View Cart
 			</A>
 		</P>
@@ -6326,11 +6326,11 @@
 									<SPAN 	><DIV class="formField clearfix alt ">
 					<DIV class="form_title" style="float:left;">Your Rating:</DIV>
 					<DIV style="float:right;width:454px;margin-right:138px;margin-top:4px">
-						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="1" title="Very Disappointing"></a>
-						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="2" title="Disappointing"></a>
-						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="3" title="Not Bad"></a>
-						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="4" title="Good"></a>
-						<a href="https://fkunswagati.ac.id/index_php/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="5" title="Very Good"></a>
+						<a href="https://fkunswagati.ac.id/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="1" title="Very Disappointing"></a>
+						<a href="https://fkunswagati.ac.id/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="2" title="Disappointing"></a>
+						<a href="https://fkunswagati.ac.id/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="3" title="Not Bad"></a>
+						<a href="https://fkunswagati.ac.id/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="4" title="Good"></a>
+						<a href="https://fkunswagati.ac.id/contact/" onclick="rate(this, 'score')" class="rating unfilled" v="5" title="Very Good"></a>
 						<input type="hidden" id="score" name="score" value="0"/>
 					</DIV>
 				</DIV></SPAN>  
