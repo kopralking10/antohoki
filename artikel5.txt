@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Togel Hari Ini Lengkap dan Akurat</title>
+<style>
+body {background:#000;color:#fff;font-family:Arial}
+h1 {color:red;text-shadow:0 0 10px red}
+a {color:red;text-shadow:0 0 5px red}
+table {width:100%;border-collapse:collapse;margin-top:20px}
+th,td {border:1px solid red;padding:10px;text-align:center}
+th {color:red;text-shadow:0 0 8px red}
+</style>
+</head>
+<body>
+
+<h1>Togel Hari Ini Lengkap dan Akurat</h1>
+
+<p>Temukan <a href="https://pustaka.upertis.ac.id/">togel hari ini</a> dengan data paling lengkap dan update setiap waktu.</p>
+
+<p>Kamu juga bisa melihat <a href="https://pustaka.upertis.ac.id/">hasil togel hari ini</a> dari berbagai pasaran terpercaya.</p>
+
+<table>
+<tr><th>Pasaran</th><th>Hasil</th></tr>
+<tr><td>SDY</td><td>7788</td></tr>
+<tr><td>HK</td><td>9900</td></tr>
+</table>
+
+<p>Akses langsung <a href="https://pustaka.upertis.ac.id/">data togel lengkap hari ini</a> untuk update terbaru.</p>
+
+</body>
+</html>
