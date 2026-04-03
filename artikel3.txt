@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Hasil Togel Hari Ini Terbaru</title>
+<style>
+body {background:#000;color:#fff;font-family:Arial}
+h1 {color:red;text-shadow:0 0 10px red}
+a {color:red;text-shadow:0 0 5px red}
+table {width:100%;border-collapse:collapse;margin-top:20px}
+th,td {border:1px solid red;padding:10px;text-align:center}
+th {color:red;text-shadow:0 0 8px red}
+</style>
+</head>
+<body>
+
+<h1>Hasil Togel Hari Ini Terbaru</h1>
+
+<p>Lihat <a href="https://pustaka.upertis.ac.id/">hasil togel hari ini</a> dengan data paling akurat dan cepat.</p>
+
+<p>Kami juga menyediakan <a href="https://pustaka.upertis.ac.id/">keluaran togel hari ini</a> dari berbagai pasaran terpercaya.</p>
+
+<table>
+<tr><th>Pasaran</th><th>Hasil</th></tr>
+<tr><td>SDY</td><td>9999</td></tr>
+<tr><td>HK</td><td>8888</td></tr>
+</table>
+
+<p>Jangan lewatkan <a href="https://pustaka.upertis.ac.id/">result togel terbaru hari ini</a> yang selalu update live.</p>
+
+</body>
+</html>
