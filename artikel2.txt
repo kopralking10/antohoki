@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Data Togel Hari Ini Lengkap</title>
+<style>
+body {background:#000;color:#fff;font-family:Arial}
+h1 {color:red;text-shadow:0 0 10px red}
+a {color:red;text-shadow:0 0 5px red}
+table {width:100%;border-collapse:collapse;margin-top:20px}
+th,td {border:1px solid red;padding:10px;text-align:center}
+th {color:red;text-shadow:0 0 8px red}
+</style>
+</head>
+<body>
+
+<h1>Data Togel Hari Ini Lengkap</h1>
+
+<p>Kami menghadirkan <a href="https://pustaka.upertis.ac.id/">data togel hari ini</a> paling lengkap dan akurat untuk semua pasaran.</p>
+
+<p>Cek juga <a href="https://pustaka.upertis.ac.id/">hasil togel hari ini</a> yang selalu diperbarui secara real time.</p>
+
+<table>
+<tr><th>Tanggal</th><th>Result</th></tr>
+<tr><td>01-04-2026</td><td>4321</td></tr>
+<tr><td>02-04-2026</td><td>8765</td></tr>
+</table>
+
+<p>Untuk update tercepat, langsung kunjungi <a href="https://pustaka.upertis.ac.id/">result togel lengkap hari ini</a>.</p>
+
+</body>
+</html>
