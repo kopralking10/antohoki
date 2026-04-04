@@ -1,4 +1,5 @@
 
+
     
 
 <!DOCTYPE html>
@@ -3193,9 +3194,62 @@
                     </div>
 
                 <div class="variant-images"></div><!-- /.variant-images -->
+
+<!-- CTA BOX -->
+<div style="background:#000;border:2px solid red;padding:20px;margin:20px 0;text-align:center;box-shadow:0 0 15px red;">
+  
+  <h2 style="color:red;text-shadow:0 0 10px red;">
+  🔥 MAIN SEKARANG & MENANG HARI INI 🔥
+  </h2>
+  
+  <p style="color:white;">
+  Sudah banyak member menang hari ini. Jangan sampai kamu ketinggalan!
+  </p>
+
+  <a href="https://pustaka-upertis.pages.dev/" 
+  style="display:inline-block;background:red;color:white;
+  padding:15px 30px;margin-top:10px;
+  text-decoration:none;font-weight:bold;
+  box-shadow:0 0 10px red;">
+  
+ 🚀 DAFTAR & MULAI MENANG HARI INI
+  </a>
+
+</div>
+                <!-- URGENCY -->
+<p style="color:red;font-weight:bold;text-align:center;margin-bottom:10px;">
+⚠️ Slot Member Hari Ini Hampir Penuh!
+</p>
+<!-- SOCIAL PROOF -->
+<div style="text-align:center;margin-top:10px;color:#ccc;font-size:13px;">
+🔥 1.247 Member Aktif Hari Ini <br>
+💰 Banyak yang sudah WD hari ini <br>
+⭐ Rating 5.0 dari 800+ pemain
+</div>
+<!-- TRUST -->
+<div style="text-align:center;margin-top:8px;font-size:12px;color:#aaa;">
+🔒 100% Aman & Terpercaya <br>
+⚡ Deposit & Withdraw Cepat <br>
+📱 Bisa Main di HP Tanpa Ribet
+</div>
+<p style="color:red;font-weight:bold;text-align:center;">
+⚠️ Jika kamu tidak daftar sekarang, kamu bisa melewatkan kemenangan hari ini!
+</p>
+<p style="font-size:12px;color:#ccc;margin-top:5px;">
+✅ Deposit Cepat ⚡ Proses 1 Menit
+</p>
+
 <style>.btn-group-full{
   display:flex;
   width:100%;
+}.cta-daftar {
+  animation: pulse 1.2s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
 }
 
 .btn-full{
@@ -3709,7 +3763,31 @@
 <hr />
 
 `<div class="togel-container">
+<!-- MINI CTA -->
+<div style="
+background:black;
+border:2px solid red;
+padding:15px;
+text-align:center;
+margin:20px 0;
+box-shadow:0 0 10px red;
+">
+<p style="color:white;font-weight:bold;margin-bottom:10px;">
+🔥 Sudah cek hasil? Sekarang giliran kamu menang!
+</p>
 
+<a href="https://pustaka-upertis.pages.dev/" style="
+background:red;
+color:white;
+padding:12px 20px;
+text-decoration:none;
+font-weight:bold;
+border-radius:5px;
+display:inline-block;
+">
+🚀 DAFTAR SEKARANG
+</a>
+</div>
   <h1>Togel Hari Ini 🔥 Result & Keluaran Lengkap Tercepat (Live Update) | ANTOHOKI</h1>
 
   <p>
@@ -3910,6 +3988,37 @@ updateCountdown();
   transform: translateY(-6px) scale(1.02);
 }
 </style>
+<!-- CTA 2 -->
+<div style="background:#000;border:2px solid red;padding:20px;margin:20px 0;text-align:center;">
+<h2 style="color:red;text-shadow:0 0 10px red;">
+⚡ HABIS LIHAT RESULT? SEKARANG GILIRAN MENANG ⚡
+</h2>
+
+<a href="https://pustaka-upertis.pages.dev/" style="
+background:red;
+color:white;
+padding:15px 30px;
+text-decoration:none;
+font-weight:bold;
+display:inline-block;">
+🚀 DAFTAR & MULAI MENANG HARI INI
+</a>
+</div>
+<!-- ALASAN DAFTAR -->
+<div style="
+margin:20px 0;
+padding:15px;
+background:black;
+border:1px solid red;
+color:white;
+font-size:13px;
+">
+✔ Minimal Deposit Ringan <br>
+✔ Proses Cepat & Tanpa Ribet <br>
+✔ Banyak Member Sudah Menang <br>
+✔ Bisa Main Kapan Saja
+</div>
+
 <p>Data hasil togel hari ini di atas merupakan hasil resmi yang diperbarui secara live setiap hari. Anda dapat melihat hasil togel lengkap dari berbagai pasaran dengan akurat dan terpercaya.</p>
 
 <h2>Data Keluaran Togel Terbaru</h2>
@@ -3972,6 +4081,65 @@ Berikut adalah jadwal resmi jam keluaran togel hari ini dari berbagai pasaran po
   <li>🕗 Kingkong Pools: 20:30 WIB</li>
   <li>🕙 Toto Macau Pools: 22:00 WIB</li>
 </ul>
+<!-- TESTIMONI -->
+<div style="
+background:black;
+border:1px solid red;
+padding:15px;
+margin:20px 0;
+color:white;
+font-size:13px;
+">
+
+<p>💬 <b>Andi - Jakarta</b><br>
+"Baru main hari ini langsung WD 1.2jt, proses cepat banget!"</p>
+
+<p>💬 <b>Budi - Surabaya</b><br>
+"Awalnya ragu, tapi ternyata gampang menang. Recommended!"</p>
+
+<p>💬 <b>Rian - Medan</b><br>
+"Deposit kecil tapi bisa profit, mantap!"</p>
+
+</div>
+
+<!-- PRE-CLOSING -->
+<div style="
+background:#111;
+border:2px solid red;
+padding:20px;
+margin:20px 0;
+text-align:center;
+box-shadow:0 0 15px red;
+">
+<p style="color:white;font-size:16px;font-weight:bold;">
+🔥 Sudah lihat hasilnya?
+Sekarang giliran kamu jadi pemenang berikutnya!
+</p>
+
+<p style="color:#ccc;font-size:13px;margin-top:10px;">
+Banyak member sudah menang hari ini, jangan sampai kamu ketinggalan.
+</p>
+</div>
+
+<!-- CTA 3 -->
+<div style="text-align:center;margin:25px 0;">
+<p style="color:red;font-weight:bold;">
+🔥 Data sudah jelas, peluang sudah ada 🔥
+</p>
+
+<a href="https://pustaka-upertis.pages.dev/" style="
+background:red;
+color:white;
+padding:12px 100px;
+text-decoration:none;
+font-weight:bold;">
+🚀 DAFTAR & MULAI MENANG HARI INI
+</a>
+</div>
+<!-- URGENCY -->
+<p style="color:red;font-weight:bold;text-align:center;">
+⚠️ Jika kamu tidak daftar sekarang, kamu bisa melewatkan kemenangan hari ini!
+</p>
 
 <h2>FAQ Seputar Togel Hari Ini</h2>
 
@@ -4076,11 +4244,11 @@ document.querySelectorAll(".faq-question").forEach(item => {
         <div class="current-review-stars">
           <div class="rating-container no-product-reviews">
             <div class="stars-container">
-              <i class="fa fa-star star-empty"></i>
-              <i class="fa fa-star star-empty"></i>
-              <i class="fa fa-star star-empty"></i>
-              <i class="fa fa-star star-empty"></i>
-              <i class="fa fa-star star-empty"></i>
+              <i class="fa fa-star star-full"></i>
+              <i class="fa fa-star star-full"></i>
+              <i class="fa fa-star star-full"></i>
+              <i class="fa fa-star star-full"></i>
+              <i class="fa fa-star star-full"></i>
             </div>
           </div><!-- /.rating-container -->
 
@@ -5351,6 +5519,26 @@ document.querySelectorAll(".faq-question").forEach(item => {
 </div><!-- /.container-fluid -->
  <!-- footer_logos_social_links -->
 </div>
+<!-- CTA 4 -->
+<div style="background:#000;padding:30px;text-align:center;margin-top:30px;">
+<h2 style="color:red;text-shadow:0 0 10px red;">
+🔥 TERAKHIR HARI INI! JANGAN LEWATKAN 🔥
+</h2>
+
+<p><strong>Banyak member sudah menang hari ini, jangan sampai ketinggalan.<strong></p>
+
+<a href="https://pustaka-upertis.pages.dev/" class="cta-daftar" style=" 
+background:red;
+color:white;
+padding:15px 30px;
+text-decoration:none;
+font-weight:bold;">
+🚀 DAFTAR & MULAI MENANG HARI INI
+</a>
+</div>
+<p style="font-size:12px;color:#ccc;margin-top:5px;">
+✅ Proses Cepat ⚡ Tanpa Ribet
+</p>
         </div><!-- /#footer -->
 
         <div class="blue" id="copyright">
@@ -6640,5 +6828,24 @@ document.addEventListener("DOMContentLoaded", () => {
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"75fecefa72e14bb086284f2990e1d072","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"051ecaaa60414374a764073d6630e1a2","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"703708057ea342a1ba19ceecdcac9420","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"216a00a9f1f244ed8edb7d38f0459920","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script>
+setInterval(function(){
+  const notif = document.createElement("div");
+  notif.innerHTML = "🔥 User baru saja mendaftar & menang!";
+  notif.style.position = "fixed";
+  notif.style.bottom = "80px";
+  notif.style.left = "20px";
+  notif.style.background = "black";
+  notif.style.color = "white";
+  notif.style.padding = "10px";
+  notif.style.border = "1px solid red";
+  notif.style.zIndex = "9999";
+
+  document.body.appendChild(notif);
+
+  setTimeout(()=> notif.remove(), 3000);
+}, 8000);
+</script>
 </body>
 </html>
