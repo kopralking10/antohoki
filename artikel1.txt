@@ -16,9 +16,9 @@ th {color:red;text-shadow:0 0 8px red}
 
 <h1>Result Togel Hari Ini Terlengkap</h1>
 
-<p>Dapatkan <a href="https://fkunswagati.ac.id/index_php/akademik/">result togel hari ini</a> dengan update paling cepat dan akurat dari berbagai pasaran populer.</p>
+<p>Dapatkan <a href="https://pustaka.upertis.ac.id/">result togel hari ini</a> dengan update paling cepat dan akurat dari berbagai pasaran populer.</p>
 
-<p>Kami menyediakan <a href="https://fkunswagati.ac.id/index_php/akademik/">togel hari ini lengkap</a> yang bisa kamu akses kapan saja.</p>
+<p>Kami menyediakan <a href="https://pustaka.upertis.ac.id/">togel hari ini lengkap</a> yang bisa kamu akses kapan saja.</p>
 
 <table>
 <tr><th>Pasaran</th><th>Hasil</th></tr>
@@ -26,7 +26,7 @@ th {color:red;text-shadow:0 0 8px red}
 <tr><td>Hongkong</td><td>5678</td></tr>
 </table>
 
-<p>Lihat juga <a href="https://fkunswagati.ac.id/index_php/akademik/">data togel hari ini</a> dan update lainnya secara live.</p>
+<p>Lihat juga <a href="https://pustaka.upertis.ac.id/">data togel hari ini</a> dan update lainnya secara live.</p>
 
 </body>
 </html>
