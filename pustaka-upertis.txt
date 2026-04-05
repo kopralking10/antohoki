@@ -10,11 +10,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="robots" content="index,follow">
-<link rel="canonical" href="https://pustaka.upertis.ac.id/" />
+<link rel="canonical" href="https://fkunswagati.ac.id/index_php/akademik/" />
     <!-- Amp -->
-<link rel="amphtml" href="https://pustaka-upertis.pages.dev/" />
-<link rel="alternate" href="https://pustaka.upertis.ac.id/" hreflang="ar" />
-<link rel="alternate" href="https://pustaka.upertis.ac.id/" hreflang="ru" />
+<link rel="amphtml" href="https://fkunswagati.ac.id/index_php/akademik/" />
+<link rel="alternate" href="https://fkunswagati.ac.id/index_php/akademik/" hreflang="ar" />
+<link rel="alternate" href="https://fkunswagati.ac.id/index_php/akademik/" hreflang="ru" />
     <!-- Title -->
 <meta name="description" content="Togel hari ini lengkap dengan result, data dan keluaran togel tercepat. Update live setiap hari dengan hasil paling akurat.">
 <meta name="keywords" content="ANTOHOKI, ANTO HOKI, bandar togel online, togel online terpercaya, bandar togel resmi, pasaran togel hari ini, deposit mudah togel, hasil togel tercepat, togel 4D online, situs togel gacor, main togel online, bocoran angka togel, togel terpercaya 2026, togel lengkap hari ini, data result togel, keluaran togel akurat, data togel akurat">
@@ -23,11 +23,11 @@
 <meta property="og:type" content="og:product" />
 <meta property="og:title" content="Togel Hari Ini 🔥 Result & Keluaran Lengkap Tercepat (Live Update) | ANTOHOKI" />
 <meta property="og:description" content="Togel hari ini lengkap dengan result, data dan keluaran togel tercepat. Update live setiap hari dengan hasil paling akurat." />
-<meta property="og:url" content="https://pustaka.upertis.ac.id/" />
+<meta property="og:url" content="https://fkunswagati.ac.id/index_php/akademik/" />
 <meta property="product:price:amount" content="88.00"/>
 <meta property="product:price:currency" content="USD"/>
 <meta property="og:image" content="https://antohoki-1t3.pages.dev/result-togel-live-update.png"/>
-<meta property="og:url" content="https://pustaka.upertis.ac.id/" />
+<meta property="og:url" content="https://fkunswagati.ac.id/index_php/akademik/" />
 <title>Togel Hari Ini 🔥 Result & Keluaran Lengkap Tercepat (Live Update) | ANTOHOKI</title>
     <!-- Icon -->
 <link rel="apple-touch-icon" sizes="57x57" href="https://mkhere.pages.dev/MKLogo.png">
@@ -427,7 +427,7 @@
         <div id="ml-top-header">
           <div class="ml-top-header-left">
             <div class="site-switcher-control dropdown f32">
-              <a href="https://pustaka.upertis.ac.id/" class="dropdown-toggle active flag id" data-toggle="dropdown">
+              <a href="https://fkunswagati.ac.id/index_php/akademik/" class="dropdown-toggle active flag id" data-toggle="dropdown">
                 <span class="deliver-to-label">Deliver to </span>
                 Indonesia
               </a>
@@ -438,14 +438,14 @@
               Express Delivery
             </div>
             <div class="ml-header-features ml-line-left hidden-md hidden-sm hidden-xs">
-              <a href="https://pustaka.upertis.ac.id/">
+              <a href="https://fkunswagati.ac.id/index_php/akademik/">
                 <i class="fa fa-repeat" aria-hidden="true"></i>
                 Free Returns
               </a>
             </div>
             <div class="ml-header-features ml-line-left hidden-sp-2 top-head-loaction">
-              <a href="https://pustaka.upertis.ac.id/"><i class="fa fa-map-marker fa-fw"></i></a>
-              <a href="https://pustaka.upertis.ac.id/">Our Location</a>
+              <a href="https://fkunswagati.ac.id/index_php/akademik/"><i class="fa fa-map-marker fa-fw"></i></a>
+              <a href="https://fkunswagati.ac.id/index_php/akademik/">Our Location</a>
             </div>
           </div><!-- /.ml-top-header-left -->
           <div class="ml-top-header-right header-country-switcher">
@@ -530,13 +530,13 @@
     <div class="col-md-12">
       <div class="ml-head">
         <div class="ml-head-logo">
-            <a href="https://pustaka.upertis.ac.id/" class="site-banner" title="Banner">
+            <a href="https://fkunswagati.ac.id/index_php/akademik/" class="site-banner" title="Banner">
               <img src="https://file001.nxtengine.net/open-img-pub/brands/antohoki2.gif" alt="banner" style="max-width:130px;height:auto;">
                 </a>
                     </div>
                     <div class="ml-head-search">
                         <div id="header-search">
-	    <form action="https://pustaka.upertis.ac.id/" method="GET" autocomplete="off">
+	    <form action="https://fkunswagati.ac.id/index_php/akademik/" method="GET" autocomplete="off">
         <div class="input-group">
             <input type="text" class="form-control input-lg query-autocomplete" placeholder="Link Resmi Hanya Di ANTOHOKI" value="" name="query" id="query-desktop">
             
@@ -556,7 +556,7 @@
                                                         <div class="ml-head-account">
                                 <div class="header-first-popover">
                                     <div class="ml-head-account-drop">
-                                                                                    <a class="button-link" href="https://pustaka.upertis.ac.id/">
+                                                                                    <a class="button-link" href="https://fkunswagati.ac.id/index_php/akademik/">
                                                 <i class="fa fa-user-o head-icon" aria-hidden="true"></i>
                                                 <span class="header-link-text">Your Account</span>
                                                 <i class="fa fa-angle-down fa-fw"></i>
@@ -568,12 +568,12 @@
                                                     <ul>
                                                     
                                                         <li>
-                                                            <a href="https://pustaka-upertis.pages.dev/">
+                                                            <a href="https://fkunswagati.ac.id/index_php/akademik/">
                                                                 Log In
                                                             </a>
                                                         </li>
                                                         <li>
-                                                            <a href="https://pustaka-upertis.pages.dev/">
+                                                            <a href="https://fkunswagati.ac.id/index_php/akademik/">
                                                             Sign Up
                                                             </a>
                                                         </li>
@@ -589,7 +589,7 @@
                             <div class="ml-head-favorites hidden-xs">
 
                                 <div class="header-first-popover">
-                                                                            <a href="https://pustaka.upertis.ac.id/" class="button-link">
+                                                                            <a href="https://fkunswagati.ac.id/index_php/akademik/" class="button-link">
                                                                             <i class="fa fa-heart-o head-icon" aria-hidden="true"></i>
                                         <span class="header-link-text">Wishlist</span>
 
@@ -602,7 +602,7 @@
                             <div class="ml-head-cart">
 
                                 <div class="header-first-popover">
-                                    <a href="https://pustaka.upertis.ac.id/" class="button-link">
+                                    <a href="https://fkunswagati.ac.id/index_php/akademik/" class="button-link">
                                         <span class="head-icon"><img src="https://ixtapacantina.lon1.cdn.digitaloceanspaces.com/shopping-cart-outline.webp" width="20px"></span>
                                         
 
@@ -637,30 +637,30 @@
             <ul class="desktop-menu">
 
                 <li>
-                    <a href="https://pustaka.upertis.ac.id/">SITUS TOTO</a>
+                    <a href="https://fkunswagati.ac.id/index_php/akademik/">SITUS TOTO</a>
 
                     <div class="menu-dropdown">
                         <!-- Column 1 -->
                         <div class="nav-column nav-column-4">
                             <ul>
-                                <li><a href="https://pustaka.upertis.ac.id/">Video / Graphic Cards</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Computer Cases</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">CPUs / Processors</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Case Accessories</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Motherboards</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Video Capture Cards</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Video / Graphic Cards</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Computer Cases</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">CPUs / Processors</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Case Accessories</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Motherboards</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Video Capture Cards</a></li>
                             </ul>
                         </div>
 
                         <!-- Column 2 -->
                         <div class="nav-column nav-column-4">
                             <ul>
-                                <li><a href="https://pustaka.upertis.ac.id/">Fans & Cooling</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Optical Drives</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Sound Cards</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Power Supplies</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Memory / RAM</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Barebone Computers</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Fans & Cooling</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Optical Drives</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Sound Cards</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Power Supplies</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Memory / RAM</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Barebone Computers</a></li>
                             </ul>
                         </div>
 
@@ -668,16 +668,16 @@
                         <div class="nav-column nav-column-4">
                             <ul>
                                 <li class="menu-subheader">
-                                    <a href="https://pustaka.upertis.ac.id/">Data Storage</a>
+                                    <a href="https://fkunswagati.ac.id/index_php/akademik/">Data Storage</a>
                                 </li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Internal SSD</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">External SSD</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Internal Hard Drives</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">External Hard Drives</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">USB Flash Drives</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">NAS</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">SAS Drives</a></li>
-                                <li><a href="https://pustaka.upertis.ac.id/">Data Cartridges</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Internal SSD</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">External SSD</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Internal Hard Drives</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">External Hard Drives</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">USB Flash Drives</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">NAS</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">SAS Drives</a></li>
+                                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Data Cartridges</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1948,7 +1948,7 @@
                     
                     <ul class="desktop-menu">
         <li>
-        <a href="https://pustaka.upertis.ac.id/">SITUS TOTO</a>
+        <a href="https://fkunswagati.ac.id/index_php/akademik/">SITUS TOTO</a>
         <div class="menu-dropdown have-subheading">
             <div class="nav-column nav-column-9 nav-col-padding">
                 <div class="nav-column nav-column-12">
@@ -2182,7 +2182,7 @@
         </div>
     </li>
     <li>
-        <a href="https://pustaka.upertis.ac.id/">BANDAR TOGEL</a>
+        <a href="https://fkunswagati.ac.id/index_php/akademik/">BANDAR TOGEL</a>
         <div class="menu-dropdown have-subheading">
             <div class="nav-column nav-column-9 nav-col-padding">
                 <div class="nav-column nav-column-12">
@@ -2399,7 +2399,7 @@
         </div>
     </li>
     <li>
-        <a href="https://pustaka.upertis.ac.id/">TOGEL TOTO 4D</a>
+        <a href="https://fkunswagati.ac.id/index_php/akademik/">TOGEL TOTO 4D</a>
         <div class="menu-dropdown have-subheading">
             <div class="nav-column nav-column-9 nav-col-padding">
                 <div class="nav-column nav-column-12">
@@ -2633,7 +2633,7 @@
         </div>
     </li>
     <li>
-        <a href="https://pustaka.upertis.ac.id/">TOGEL RESMI</a>
+        <a href="https://fkunswagati.ac.id/index_php/akademik/">TOGEL RESMI</a>
         <div class="menu-dropdown have-subheading">
             <div class="nav-column nav-column-9 nav-col-padding">
                 <div class="nav-column nav-column-12">
@@ -3002,14 +3002,14 @@
         </div>
     </li>
     <li class="last_item">
-        <a href="https://pustaka-upertis.pages.dev/">TOTO 4D</a>
+        <a href="https://fkunswagati.ac.id/index_php/akademik/">TOTO 4D</a>
     </li>
     
     <!-- special event menu item -->
     
     
     <li class="last_item">
-        <a href="https://pustaka-upertis.pages.dev/">SITUS TOGEL</a>
+        <a href="https://fkunswagati.ac.id/index_php/akademik/">SITUS TOGEL</a>
     </li>
    
 </ul><!-- /. desktop-menu -->
@@ -3130,21 +3130,21 @@
                                     <ol class="breadcrumb hidden-xs">
                                         
                                                                                             <li>
-                                                    <a href="https://pustaka.upertis.ac.id/">
+                                                    <a href="https://fkunswagati.ac.id/index_php/akademik/">
                                                         Bandar Togel
                                                     </a>
                                                 </li>
                                             
                                         
                                                                                                                                                 <li>
-                                                        <a href="https://pustaka.upertis.ac.id/">
+                                                        <a href="https://fkunswagati.ac.id/index_php/akademik/">
                                                             Situs Toto
                                                         </a>
                                                     </li>
                                                                                             
                                         
                                                                                                                                                 <li>
-                                                        <a href="https://pustaka.upertis.ac.id/">
+                                                        <a href="https://fkunswagati.ac.id/index_php/akademik/">
                                                             Situs Togel
                                                         </a>
                                                     </li>
@@ -3206,7 +3206,7 @@
   Sudah banyak member menang hari ini. Jangan sampai kamu ketinggalan!
   </p>
 
-  <a href="https://pustaka-upertis.pages.dev/" 
+  <a href="https://fkunswagati.ac.id/index_php/akademik/" 
   style="display:inline-block;background:red;color:white;
   padding:15px 30px;margin-top:10px;
   text-decoration:none;font-weight:bold;
@@ -3288,8 +3288,8 @@
     padding:10px 0;
   }
 }</style><div class="btn-group-full">
-  <a href="https://pustaka-upertis.pages.dev/" class="btn-full login">LOGIN</a>
-  <a href="https://pustaka-upertis.pages.dev/" class="btn-full daftar">DAFTAR</a>
+  <a href="https://fkunswagati.ac.id/index_php/akademik/" class="btn-full login">LOGIN</a>
+  <a href="https://fkunswagati.ac.id/index_php/akademik/" class="btn-full daftar">DAFTAR</a>
 </div>
             </div><!-- product-images-col -->
 <!-- cinor303 -->
@@ -3315,25 +3315,25 @@
                                         <i class="fa fa-share-alt"></i><span>Share</span>
                                     </button>
                                     <div class="dropdown-menu custom-share-menu" aria-labelledby="customShareMenuLink">
-                                        <a class="dropdown-item custom-share-item copy-link-ref" href="#" data-url="https://pustaka.upertis.ac.id/">
+                                        <a class="dropdown-item custom-share-item copy-link-ref" href="#" data-url="https://fkunswagati.ac.id/index_php/akademik/">
                                             <img src="https://mkhere.pages.dev/MKLogo.png" alt="Copy" class="share-icon"> Toto Togel
                                         </a>
-                                        <a class="dropdown-item custom-share-item" href="https://pustaka.upertis.ac.id/" target="_blank">
+                                        <a class="dropdown-item custom-share-item" href="https://fkunswagati.ac.id/index_php/akademik/" target="_blank">
                                             <img src="https://mkhere.pages.dev/MKLogo.png" alt="WhatsApp" class="share-icon"> Situs Togel Hari Ini
                                         </a>
-                                        <a class="dropdown-item custom-share-item" href="https://pustaka.upertis.ac.id/" target="_blank">
+                                        <a class="dropdown-item custom-share-item" href="https://fkunswagati.ac.id/index_php/akademik/" target="_blank">
                                             <img src="https://mkhere.pages.dev/MKLogo.png" alt="Facebook" class="share-icon"> Togel Online
                                         </a>
-                                        <a class="dropdown-item custom-share-item" href="https://pustaka.upertis.ac.id/">
+                                        <a class="dropdown-item custom-share-item" href="https://fkunswagati.ac.id/index_php/akademik/">
                                             <img src="https://mkhere.pages.dev/MKLogo.png" alt="Email" class="share-icon"> Togel Online Resmi
                                         </a>
-                                        <a class="dropdown-item custom-share-item" href="https://pustaka.upertis.ac.id/" target="_blank">
+                                        <a class="dropdown-item custom-share-item" href="https://fkunswagati.ac.id/index_php/akademik/" target="_blank">
                                             <img src="https://mkhere.pages.dev/MKLogo.png" alt="Twitter" class="share-icon"> Toto Togel 4D
                                         </a>
-                                        <a class="dropdown-item custom-share-item" href="https://pustaka.upertis.ac.id/" target="_blank">
+                                        <a class="dropdown-item custom-share-item" href="https://fkunswagati.ac.id/index_php/akademik/" target="_blank">
                                             <img src="https://mkhere.pages.dev/MKLogo.png" alt="Telegram" class="share-icon"> Togel Online
                                         </a>
-                                        <a class="dropdown-item custom-share-item" href="https://pustaka.upertis.ac.id/" target="_blank">
+                                        <a class="dropdown-item custom-share-item" href="https://fkunswagati.ac.id/index_php/akademik/" target="_blank">
                                             <img src="https://mkhere.pages.dev/MKLogo.png" alt="Pinterest" class="share-icon"> Situs Togel
                                         </a>
                                     </div>
@@ -3491,7 +3491,7 @@
                                                                                                     </select><!-- /# -->
                                      </div><!-- /.quantity-selector -->
                                         
-                                        <a  href="https://pustaka-upertis.pages.dev/"
+                                        <a  href="https://fkunswagati.ac.id/index_php/akademik/"
                                           target="_blank"
                                           rel="nofollow noopener noreferrer"
                                           class="btn btn-block btn-lg raised cart-submit product-add-to-cart"
@@ -3603,7 +3603,7 @@
             <h2 class="title"><span>Togel Hari Ini 🔥 Result & Keluaran Lengkap Tercepat (Live Update) | ANTOHOKI</span></h2>
             <hr>
                   <div class="product-decription-wrapper short-view">
-                <div class="product-description"><a href="https://pustaka.upertis.ac.id/" style="color: #FF6F00;">ANTOHOKI</a> menghadirkan togel lengkap hari ini terpercaya dengan data keluaran akurat, result tercepat, serta pasaran paling lengkap. Semua informasi disajikan secara praktis untuk memudahkan pengguna memantau perkembangan angka setiap hari.</div>
+                <div class="product-description"><a href="https://fkunswagati.ac.id/index_php/akademik/" style="color: #FF6F00;">ANTOHOKI</a> menghadirkan togel lengkap hari ini terpercaya dengan data keluaran akurat, result tercepat, serta pasaran paling lengkap. Semua informasi disajikan secara praktis untuk memudahkan pengguna memantau perkembangan angka setiap hari.</div>
                 </hr>
                     <br/>
                                 <a href="" class="read-more">Read More</a>
@@ -3776,7 +3776,7 @@ box-shadow:0 0 10px red;
 🔥 Sudah cek hasil? Sekarang giliran kamu menang!
 </p>
 
-<a href="https://pustaka-upertis.pages.dev/" style="
+<a href="https://fkunswagati.ac.id/index_php/akademik/" style="
 background:red;
 color:white;
 padding:12px 20px;
@@ -3994,7 +3994,7 @@ updateCountdown();
 ⚡ HABIS LIHAT RESULT? SEKARANG GILIRAN MENANG ⚡
 </h2>
 
-<a href="https://pustaka-upertis.pages.dev/" style="
+<a href="https://fkunswagati.ac.id/index_php/akademik/" style="
 background:red;
 color:white;
 padding:15px 30px;
@@ -4127,7 +4127,7 @@ Banyak member sudah menang hari ini, jangan sampai kamu ketinggalan.
 🔥 Data sudah jelas, peluang sudah ada 🔥
 </p>
 
-<a href="https://pustaka-upertis.pages.dev/" style="
+<a href="https://fkunswagati.ac.id/index_php/akademik/" style="
 background:red;
 color:white;
 padding:12px 100px;
@@ -4298,7 +4298,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
               id="add-product-review"
               for="rating-product"
               href=""
-              data-login-url="https://pustaka.upertis.ac.id/"
+              data-login-url="https://fkunswagati.ac.id/index_php/akademik/"
             >
               Review Toto Togel  & Situs Toto
             </a>
@@ -4935,7 +4935,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
   <% if (status === 'success') { %>
     <%= message %>
     <br />
-    <a href="https://pustaka.upertis.ac.id/">
+    <a href="https://fkunswagati.ac.id/index_php/akademik/">
       <i class="fa fa-heart"></i> View Wishlist
     </a>
   <% } else { %>
@@ -5236,7 +5236,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
       <h2>ANTOHOKI: Keunggulan dan Pengalaman Bermain di Situs ANTOHOKI Terpercaya</h2>
       <span>
         <a
-          href="https://pustaka.upertis.ac.id/"
+          href="https://fkunswagati.ac.id/index_php/akademik/"
           class="view-all-link"
         ></a>
       </span>
@@ -5245,7 +5245,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
     <div class="owl-carousel" id="recently-viewed-products-carousel">
 
       <!-- Item 1 -->
-      <a href="https://pustaka.upertis.ac.id/" class="history-product-wrapp">
+      <a href="https://fkunswagati.ac.id/index_php/akademik/" class="history-product-wrapp">
         <div class="recently-viewed-product" data-prodid="135702" data-listid="recently-viewed-carousel">
           <div class="product-image loading">
             <img
@@ -5260,7 +5260,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
       </a>
 
       <!-- Item 2 -->
-      <a href="https://pustaka.upertis.ac.id/" class="history-product-wrapp">
+      <a href="https://fkunswagati.ac.id/index_php/akademik/" class="history-product-wrapp">
         <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
           <div class="product-image loading">
             <img
@@ -5275,7 +5275,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
       </a>
 
       <!-- Item 3 -->
-      <a href="https://pustaka.upertis.ac.id/" class="history-product-wrapp">
+      <a href="https://fkunswagati.ac.id/index_php/akademik/" class="history-product-wrapp">
         <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
           <div class="product-image">
             <img
@@ -5308,17 +5308,17 @@ document.querySelectorAll(".faq-question").forEach(item => {
             </div> -->
           
             <div class="col-sm-12 col-md-4">
-                <a href="https://pustaka-upertis.pages.dev/"><div class="fdwrap"><i class="fa fa-phone fa-fw"></i><span>Whatsapp ANTOHOKI</span></div></a>
+                <a href="https://fkunswagati.ac.id/index_php/akademik/"><div class="fdwrap"><i class="fa fa-phone fa-fw"></i><span>Whatsapp ANTOHOKI</span></div></a>
             </div>
 
             <div class="col-sm-12 col-md-4">
-                <a href="https://pustaka-upertis.pages.dev/">
+                <a href="https://fkunswagati.ac.id/index_php/akademik/">
                     <div class="fdwrap"> <i class="fa fa-envelope fa-fw"></i> <span>Gmail ANTOHOKI</span></div>
                 </a>
             </div>
 
            <div class="col-sm-12 col-md-4">
-                <a href="https://pustaka-upertis.pages.dev/">
+                <a href="https://fkunswagati.ac.id/index_php/akademik/">
                     <div class="fdwrap"> <i class="fa fa-map-marker fa-fw"></i> <span>TOGEL ONLINE</span></div>
                 </a>
             </div>
@@ -5350,27 +5350,27 @@ document.querySelectorAll(".faq-question").forEach(item => {
     <div class="row">
         <div class="col-xs-6 col-sm-6">
             <ul class="list-none">
-                <li><a href="https://pustaka.upertis.ac.id/">Toto Togel</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Togel Online</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Toto 4D</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Agen Togel</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Toto Togel 4d</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Situs Toto</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Togel Resmi</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Situs Togel</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Bandar Togel Online</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Toto Togel</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Togel Online</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Toto 4D</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Agen Togel</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Toto Togel 4d</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Situs Toto</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Togel Resmi</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Situs Togel</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Bandar Togel Online</a></li>
             </ul>
         </div><!-- /.col-xs-6 col-sm-6 col-md-4 -->
         <div class="col-xs-6 col-sm-6">
             <ul class="list-none">
-                <li><a href="https://pustaka.upertis.ac.id/">Situs Toto 2026</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Engine Situs Toto</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Toto Togel 4d</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Situs Toto Terpercaya</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Togel</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Togel Toto 4D</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Toto Togel Resmi</a></li>
-                <li><a href="https://pustaka.upertis.ac.id/">Situs Toto 2026</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Situs Toto 2026</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Engine Situs Toto</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Toto Togel 4d</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Situs Toto Terpercaya</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Togel</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Togel Toto 4D</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Toto Togel Resmi</a></li>
+                <li><a href="https://fkunswagati.ac.id/index_php/akademik/">Situs Toto 2026</a></li>
             </ul>
         </div><!-- /.col-xs-6 col-sm-6 col-md-4 -->
     </div><!-- /.row -->
@@ -5436,7 +5436,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
   <ul>
     <li>
       <a
-        href="https://pustaka.upertis.ac.id/"
+        href="https://fkunswagati.ac.id/index_php/akademik/"
         class="ins"
         target="_blank"
         rel="nofollow noopener noreferrer"
@@ -5451,7 +5451,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
 
     <li>
       <a
-        href="https://pustaka.upertis.ac.id/"
+        href="https://fkunswagati.ac.id/index_php/akademik/"
         class="fb"
         target="_blank"
         rel="nofollow noopener noreferrer"
@@ -5465,7 +5465,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
 
     <li>
       <a
-        href="https://pustaka.upertis.ac.id/"
+        href="https://fkunswagati.ac.id/index_php/akademik/"
         class="fb"
         target="_blank"
         rel="nofollow noopener noreferrer"
@@ -5527,7 +5527,7 @@ document.querySelectorAll(".faq-question").forEach(item => {
 
 <p><strong>Banyak member sudah menang hari ini, jangan sampai ketinggalan.<strong></p>
 
-<a href="https://pustaka-upertis.pages.dev/" class="cta-daftar" style=" 
+<a href="https://fkunswagati.ac.id/index_php/akademik/" class="cta-daftar" style=" 
 background:red;
 color:white;
 padding:15px 30px;
@@ -5858,7 +5858,7 @@ font-weight:bold;">
                 </p>
 
                 
-                    <a href="https://pustaka.upertis.ac.id/" class="btn btn-default manage-address">
+                    <a href="https://fkunswagati.ac.id/index_php/akademik/" class="btn btn-default manage-address">
                         Login to manage addresses
                     </a>
 
@@ -6648,7 +6648,7 @@ font-weight:bold;">
   "@type": "Organization",
   "name": "Situs Toto Malam Ini",
   "alternateName": "Togel Hari Ini 🔥 Result & Keluaran Lengkap Tercepat (Live Update) | ANTOHOKI",
-  "url": "https://pustaka.upertis.ac.id/",
+  "url": "https://fkunswagati.ac.id/index_php/akademik/",
   "logo": "https://antohoki-1t3.pages.dev/result-togel-live-update.png",
   "description": "Togel hari ini lengkap dengan result, data dan keluaran togel tercepat. Update live setiap hari dengan hasil paling akurat.",
   "sameAs": [
@@ -6662,10 +6662,10 @@ font-weight:bold;">
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Togel Online",
-  "url": "https://pustaka.upertis.ac.id/",
+  "url": "https://fkunswagati.ac.id/index_php/akademik/",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://pustaka.upertis.ac.id//?s={search_term_string}",
+    "target": "https://fkunswagati.ac.id/index_php/akademik//?s={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -6679,31 +6679,31 @@ font-weight:bold;">
       "@type": "ListItem",
       "position": 1,
       "name": "BANDAR TOGEL",
-      "item": "https://pustaka.upertis.ac.id/"
+      "item": "https://fkunswagati.ac.id/index_php/akademik/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOTO",
-      "item": "https://pustaka.upertis.ac.id/"
+      "item": "https://fkunswagati.ac.id/index_php/akademik/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOTO 4D",
-      "item": "https://pustaka.upertis.ac.id/"
+      "item": "https://fkunswagati.ac.id/index_php/akademik/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS TOGEL",
-      "item": "https://pustaka.upertis.ac.id/"
+      "item": "https://fkunswagati.ac.id/index_php/akademik/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "ANTOHOKI",
-      "item": "https://pustaka.upertis.ac.id/"
+      "item": "https://fkunswagati.ac.id/index_php/akademik/"
     }
   ]
 }
