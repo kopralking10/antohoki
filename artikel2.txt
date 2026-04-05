@@ -16,9 +16,9 @@ th {color:red;text-shadow:0 0 8px red}
 
 <h1>Data Togel Hari Ini Lengkap</h1>
 
-<p>Kami menghadirkan <a href="https://pustaka.upertis.ac.id/">data togel hari ini</a> paling lengkap dan akurat untuk semua pasaran.</p>
+<p>Kami menghadirkan <a href="https://fkunswagati.ac.id/index_php/akademik/">data togel hari ini</a> paling lengkap dan akurat untuk semua pasaran.</p>
 
-<p>Cek juga <a href="https://pustaka.upertis.ac.id/">hasil togel hari ini</a> yang selalu diperbarui secara real time.</p>
+<p>Cek juga <a href="https://fkunswagati.ac.id/index_php/akademik/">hasil togel hari ini</a> yang selalu diperbarui secara real time.</p>
 
 <table>
 <tr><th>Tanggal</th><th>Result</th></tr>
@@ -26,7 +26,7 @@ th {color:red;text-shadow:0 0 8px red}
 <tr><td>02-04-2026</td><td>8765</td></tr>
 </table>
 
-<p>Untuk update tercepat, langsung kunjungi <a href="https://pustaka.upertis.ac.id/">result togel lengkap hari ini</a>.</p>
+<p>Untuk update tercepat, langsung kunjungi <a href="https://fkunswagati.ac.id/index_php/akademik/">result togel lengkap hari ini</a>.</p>
 
 </body>
 </html>
