@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <title>ANTOHOKI – Slot Pulsa Hari Ini Khusus Player Santai Tanpa Ribet</title>
 <link rel="amphtml" href="https://antohoki-1t3.pages.dev/amp/nscpolteksby-plk-perhotelan">
-<link rel="canonical" href="https://nscpolteksby.ac.id/plk/perhotelan/" />
+<link rel="canonical" href="https://nscpolteksby.ac.id/perhotelan/" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
 <meta name="description" content="ANTOHOKI hadir dengan slot pulsa hari ini khusus player santai tanpa ribet. Nikmati permainan ringan, deposit cepat, dan peluang menang yang stabil setiap hari. Cocok untuk pemula maupun player lama.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -39,7 +39,7 @@
 <meta property="og:title" content="ANTOHOKI – Slot Pulsa Hari Ini Khusus Player Santai Tanpa Ribet" />
 <meta property="og:description" content="ANTOHOKI hadir dengan slot pulsa hari ini khusus player santai tanpa ribet. Nikmati permainan ringan, deposit cepat, dan peluang menang yang stabil setiap hari. Cocok untuk pemula maupun player lama." />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://nscpolteksby.ac.id/plk/perhotelan/" />
+<meta property="og:url" content="https://nscpolteksby.ac.id/perhotelan/" />
 <meta property="og:image" content="https://antohoki-1t3.pages.dev/banner/slot-pulsa.png" />
 <meta property="product:price:amount" content="5.20" /><meta property="product:price:currency" content="USD" />
 <link rel="shortcut icon" href="https://gambardunia.xyz/antohoki/favicon1.png" />
@@ -53,35 +53,35 @@
 <link rel="preconnect" href="//v.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
 <link rel="preload" as="image" imagesrcset="https://antohoki-1t3.pages.dev/banner/slot-pulsa.png" fetchpriority="high" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-FI" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-AU" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-CA" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-DK" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-HK" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-IE" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-IL" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-IN" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-NZ" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-NO" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-SE" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-SG" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-GB" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="de" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="de-AT" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="de-CH" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="fr" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="fr-CA" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="nl" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="nl-BE" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="it" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="es" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="es-MX" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="ja" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="pl" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="pt" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="x-default" />
-<link rel="alternate" href="https://nscpolteksby.ac.id/plk/perhotelan/" hreflang="en-US" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-FI" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-AU" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-CA" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-DK" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-HK" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-IE" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-IL" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-IN" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-NZ" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-NO" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-SE" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-SG" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-GB" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="de" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="de-AT" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="de-CH" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="fr" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="fr-CA" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="nl" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="nl-BE" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="it" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="es" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="es-MX" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="ja" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="pl" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="pt" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="x-default" />
+<link rel="alternate" href="https://nscpolteksby.ac.id/perhotelan/" hreflang="en-US" />
 <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
     !function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
 </script>
@@ -185,7 +185,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://nscpolteksby.ac.id/plk/perhotelan/",
+  "url": "https://nscpolteksby.ac.id/perhotelan/",
   "name": "ANTOHOKI",
   "sku": "500062",
   "gtin": "n/a",
@@ -359,31 +359,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "ANTOHOKI",
-      "item": "https://nscpolteksby.ac.id/plk/perhotelan/"
+      "item": "https://nscpolteksby.ac.id/perhotelan/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT PULSA",
-      "item": "https://nscpolteksby.ac.id/plk/perhotelan/"
+      "item": "https://nscpolteksby.ac.id/perhotelan/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT 5000",
-      "item": "https://nscpolteksby.ac.id/plk/perhotelan/"
+      "item": "https://nscpolteksby.ac.id/perhotelan/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "AGEN SLOT PULSA",
-      "item": "https://nscpolteksby.ac.id/plk/perhotelan/"
+      "item": "https://nscpolteksby.ac.id/perhotelan/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS SLOT PULSA DEPOSIT 5000",
-      "item": "https://nscpolteksby.ac.id/plk/perhotelan/"
+      "item": "https://nscpolteksby.ac.id/perhotelan/"
     }
   ]
 }
@@ -1172,23 +1172,23 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/plk/perhotelan/">ANTOHOKI</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/perhotelan/">ANTOHOKI</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/plk/perhotelan/">SLOT PULSA</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/perhotelan/">SLOT PULSA</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/plk/perhotelan/">SLOT 5000</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/perhotelan/">SLOT 5000</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/plk/perhotelan/">AGEN SLOT PULSA</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/perhotelan/">AGEN SLOT PULSA</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
 						<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/plk/perhotelan/">SITUS SLOT PULSA DEPOSIT 5000</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://nscpolteksby.ac.id/perhotelan/">SITUS SLOT PULSA DEPOSIT 5000</a>
                                 
                         </li>
                 </ul>
@@ -1497,7 +1497,7 @@ if (clientloggerIsEnabled) {
                                 
                                 <div class="article-container">
                                                                 <p class="t-body -size-m h-m0">
-                                                                    <p style="text-align: justify;"><span style="color: #000000;"><a style="color: #000000;" href="https://nscpolteksby.ac.id/plk/perhotelan/">ANTOHOKI</a></span> hadir sebagai pilihan tepat bagi kamu yang mencari slot pulsa hari ini dengan konsep santai tanpa ribet. Dengan sistem yang praktis dan mudah diakses, kamu bisa langsung menikmati berbagai permainan menarik tanpa perlu proses yang berbelit. Cocok untuk pemula maupun player lama yang ingin bermain dengan nyaman.</p>
+                                                                    <p style="text-align: justify;"><span style="color: #000000;"><a style="color: #000000;" href="https://nscpolteksby.ac.id/perhotelan/">ANTOHOKI</a></span> hadir sebagai pilihan tepat bagi kamu yang mencari slot pulsa hari ini dengan konsep santai tanpa ribet. Dengan sistem yang praktis dan mudah diakses, kamu bisa langsung menikmati berbagai permainan menarik tanpa perlu proses yang berbelit. Cocok untuk pemula maupun player lama yang ingin bermain dengan nyaman.</p>
                                 </div>
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
     </div>
@@ -1805,7 +1805,7 @@ if (clientloggerIsEnabled) {
 <div class="shura">
 
   <div class="shura-daftar">
-      <a rel="nofollow noopener" href="https://nscpolteksby.ac.id/plk/perhotelan/">
+      <a rel="nofollow noopener" href="https://nscpolteksby.ac.id/perhotelan/">
           <img src="https://file001.nxtengine.net/open-img-pub/brands/antohoki2.gif" width="100%" height="auto" alt="Daftar Sekarang">
       </a>
   </div>
