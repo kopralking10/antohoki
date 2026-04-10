@@ -2157,8 +2157,8 @@ table {
     </style>
     
     <div class="n-columns-2">
-        <a href="https://linkpg.me/ANTOHOKIlogin" rel="nofollow noreferrer" class="login">DAFTAR</a>
-        <a href="https://linkpg.me/ANTOHOKIlogin" rel="nofollow noreferrer" class="register">MASUK</a>
+        <a href="https://antohoki-1t3.pages.dev/amp/pgsd-umpwr-pengumuman" rel="nofollow noreferrer" class="login">DAFTAR</a>
+        <a href="https://antohoki-1t3.pages.dev/amp/pgsd-umpwr-pengumuman" rel="nofollow noreferrer" class="register">MASUK</a>
     </div>
 				  
 				  
