@@ -3143,34 +3143,34 @@ fbq('track', 'PageView');
 /* Tombol LOGIN */
 .login,
 .login-button {
-  text-shadow: 0 0 6px rgb(32, 179, 12);
+  text-shadow: 0 0 6px rgb(155, 10, 10);
   border-radius: 10px;
-  border: 2px solid rgb(32, 179, 12);
-  background: linear-gradient(180deg, #42ff1c 0%, #42ff1c 100%);
+  border: 2px solid rgb(155, 10, 10);
+  background: linear-gradient(180deg, #ff0000 0%, #ff0000 100%);
   color: #eaffef;
   transition: all 0.3s ease;
 }
 
 .login:hover {
-  background: linear-gradient(180deg, #42ff1c 0%, #42ff1c 100%);
+  background: linear-gradient(180deg, #ff0000 0%, #ff0000 100%);
   color: #ffffff;
-  box-shadow: 0 0 14px rgb(0, 255, 13)
+  box-shadow: 0 0 14px rgb(255, 47, 0)
   transform: translateY(-2px);
 }
 
 /* Tombol DAFTAR */
 .register,
 .register-button {
-  text-shadow: 0 0 6px rgb(32, 179, 12);
+  text-shadow: 0 0 6px rgb(155, 10, 10);
   border-radius: 10px;
-  background: linear-gradient(180deg, #42ff1c 0%, #42ff1c 100%);
-  border: 2px solid rgb(32, 179, 12);
+  background: linear-gradient(180deg, #ff0000 0%, #ff0000 100%);
+  border: 2px solid rgb(155, 10, 10);
   color: #ffffff;
   transition: all 0.3s ease;
 }
 
 .register:hover {
-  background: linear-gradient(180deg, #42ff1c 0%, #42ff1c 100%);
+  background: linear-gradient(180deg, #ff0000 0%, #ff0000 100%);
   color: #ffffff;
   box-shadow: 0 0 14px rgb(255, 255, 255);
   transform: translateY(-2px);
