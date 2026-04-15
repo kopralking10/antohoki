@@ -15,6 +15,7 @@
     <meta
         content="ANTOHOKI merupakan jasa situs slot dengan kemenangan tertinggi se-Indonesia, terjamin aman, cepat, dan terpercaya pastinya, kemudahan memperoleh kemenangan hanya disini."
         name="description" />
+    <meta name="google-site-verification" content="google7ab81e571573aaed" />
     <meta name="googlebot-news" content="INDEX, FOLLOW" />
     <meta name="googlebot" content="INDEX, FOLLOW" />
     <meta name="author" content="ANTOHOKI">
