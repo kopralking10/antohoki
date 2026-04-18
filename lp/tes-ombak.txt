@@ -1,7 +1,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html lang="id-ID">
  <meta content="text/html;charset=utf-8" http-equiv="content-type"/>
@@ -14,7 +13,7 @@
 <title>ANTOHOKI: Situs Slot Pulsa Tanpa Potongan 2026 + Deposit 10RB Gacor Hari Ini</title>
 <meta name="title" content="ANTOHOKI: Situs Slot Pulsa Tanpa Potongan 2026 + Deposit 10RB Gacor Hari Ini">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://dinpermadesp2kb.demakkab.go.id/">
+<link rel="canonical" href="https://nangapari.sintang.go.id/">
 <link rel="amphtml" href="https://antohoki-1t3.pages.dev/amp/tes-ombak.html">
 <meta name="publisher" content="ANTOHOKI">
 <meta name="description" content="ANTOHOKI adalah situs slot pulsa tanpa potongan 2026 dengan deposit 10RB. Nikmati slot gacor hari ini, RTP tinggi, WD cepat, dan bonus member baru. Daftar sekarang!">
@@ -24,13 +23,13 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ANTOHOKI: Situs Slot Pulsa Tanpa Potongan 2026 + Deposit 10RB Gacor Hari Ini">
 <meta name="twitter:description" content="ANTOHOKI adalah situs slot pulsa tanpa potongan 2026 dengan deposit 10RB. Nikmati slot gacor hari ini, RTP tinggi, WD cepat, dan bonus member baru. Daftar sekarang!">
-<meta name="twitter:url" content="https://dinpermadesp2kb.demakkab.go.id/">
+<meta name="twitter:url" content="https://nangapari.sintang.go.id/">
 <meta name="twitter:image" content="https://gambardunia.xyz/antohoki/favicon1.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="ANTOHOKI">
 <meta property="og:locale" content="id_ID">
 
-<meta property="og:url" content="https://dinpermadesp2kb.demakkab.go.id/">
+<meta property="og:url" content="https://nangapari.sintang.go.id/">
 <meta property="og:title" content="ANTOHOKI: Situs Slot Pulsa Tanpa Potongan 2026 + Deposit 10RB Gacor Hari Ini">
 <meta property="og:description" content="ANTOHOKI adalah situs slot pulsa tanpa potongan 2026 dengan deposit 10RB. Nikmati slot gacor hari ini, RTP tinggi, WD cepat, dan bonus member baru. Daftar sekarang!">
 <meta property="og:image" content="https://antohoki-1t3.pages.dev/banner/antohoki-pulsa-tanpa-potongan.png">
@@ -697,9 +696,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://dinpermadesp2kb.demakkab.go.id/#organization",
+        "@id": "https://nangapari.sintang.go.id/#organization",
         "name": "ANTOHOKI",
-        "url": "https://dinpermadesp2kb.demakkab.go.id/",
+        "url": "https://nangapari.sintang.go.id/",
         "logo": "https://gambardunia.xyz/antohoki/favicon1.png",
         "sameAs": [
           "https://facebook.com/ANTOHOKI",
@@ -725,32 +724,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://dinpermadesp2kb.demakkab.go.id/#breadcrumb",
+        "@id": "https://nangapari.sintang.go.id/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Beranda",
-            "item": "https://dinpermadesp2kb.demakkab.go.id/"
+            "item": "https://nangapari.sintang.go.id/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "ANTOHOKI",
-            "item": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI"
+            "item": "https://nangapari.sintang.go.id/ANTOHOKI"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Slot Pulsa",
-            "item": "https://dinpermadesp2kb.demakkab.go.id/SITUS-TOTO/"
+            "item": "https://nangapari.sintang.go.id/SITUS-TOTO/"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI#product",
+        "@id": "https://nangapari.sintang.go.id/ANTOHOKI#product",
         "name": "ANTOHOKI",
         "image": [
           "https://antohoki-1t3.pages.dev/banner/antohoki-pulsa-tanpa-potongan.png"
@@ -762,7 +761,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "ANTOHOKI-SITUS-Deposit Pulsa",
         "category": "Slot Pulsa",
-        "url": "https://dinpermadesp2kb.demakkab.go.id/TOTO/ANTOHOKI",
+        "url": "https://nangapari.sintang.go.id/TOTO/ANTOHOKI",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.7",
@@ -806,7 +805,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://dinpermadesp2kb.demakkab.go.id/TOTO/ANTOHOKI",
+          "url": "https://nangapari.sintang.go.id/TOTO/ANTOHOKI",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -815,7 +814,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://dinpermadesp2kb.demakkab.go.id/Deposit Pulsa#merchant-listing",
+        "@id": "https://nangapari.sintang.go.id/Deposit Pulsa#merchant-listing",
         "name": "Daftar Slot Pulsa ANTOHOKI",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -824,9 +823,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI/situs-Deposit Pulsa#product",
+              "@id": "https://nangapari.sintang.go.id/ANTOHOKI/situs-Deposit Pulsa#product",
               "name": "ANTOHOKI",
-              "url": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI/situs-Deposit Pulsa",
+              "url": "https://nangapari.sintang.go.id/ANTOHOKI/situs-Deposit Pulsa",
               "image": "https://antohoki-1t3.pages.dev/banner/antohoki-pulsa-tanpa-potongan.png",
               "description": "ANTOHOKI adalah situs slot pulsa tanpa potongan 2026 dengan deposit 10RB. Nikmati slot gacor hari ini, RTP tinggi, WD cepat, dan bonus member baru. Daftar sekarang!",
               "brand": {
@@ -841,7 +840,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI/situs-Deposit Pulsa",
+                "url": "https://nangapari.sintang.go.id/ANTOHOKI/situs-Deposit Pulsa",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -853,9 +852,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI/#product",
+              "@id": "https://nangapari.sintang.go.id/ANTOHOKI/#product",
               "name": "ANTOHOKI",
-              "url": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI",
+              "url": "https://nangapari.sintang.go.id/ANTOHOKI",
               "image": "https://antohoki-1t3.pages.dev/banner/antohoki-pulsa-tanpa-potongan.png",
               "description": "ANTOHOKI adalah situs slot pulsa tanpa potongan 2026 dengan deposit 10RB. Nikmati slot gacor hari ini, RTP tinggi, WD cepat, dan bonus member baru. Daftar sekarang!",
               "brand": {
@@ -870,7 +869,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://dinpermadesp2kb.demakkab.go.id/ANTOHOKI",
+                "url": "https://nangapari.sintang.go.id/ANTOHOKI",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -882,9 +881,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://dinpermadesp2kb.demakkab.go.id/Deposit Pulsa/ANTOHOKI#product",
+              "@id": "https://nangapari.sintang.go.id/Deposit Pulsa/ANTOHOKI#product",
               "name": "Starlight Princess",
-              "url": "https://dinpermadesp2kb.demakkab.go.id/Deposit Pulsa/ANTOHOKI",
+              "url": "https://nangapari.sintang.go.id/Deposit Pulsa/ANTOHOKI",
               "image": "https://antohoki-1t3.pages.dev/banner/antohoki-pulsa-tanpa-potongan.png",
               "description": "ANTOHOKI adalah situs slot pulsa tanpa potongan 2026 dengan deposit 10RB. Nikmati slot gacor hari ini, RTP tinggi, WD cepat, dan bonus member baru. Daftar sekarang!",
               "brand": {
@@ -899,7 +898,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://dinpermadesp2kb.demakkab.go.id/Deposit Pulsa/ANTOHOKI",
+                "url": "https://nangapari.sintang.go.id/Deposit Pulsa/ANTOHOKI",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -1130,7 +1129,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Samsung" class="nv00-gnb-v4__logo" href="https://dinpermadesp2kb.demakkab.go.id/">
+       <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Samsung" class="nv00-gnb-v4__logo" href="https://nangapari.sintang.go.id/">
         <img src="https://file001.nxtengine.net/open-img-pub/brands/antohoki2.gif" alt="" width="130" height="50"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1418,7 +1417,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://dinpermadesp2kb.demakkab.go.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://nangapari.sintang.go.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             ANTOHOKI
             </span>
@@ -1435,7 +1434,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://dinpermadesp2kb.demakkab.go.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://nangapari.sintang.go.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Slot Pulsa
             </span>
@@ -1449,7 +1448,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://dinpermadesp2kb.demakkab.go.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://nangapari.sintang.go.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Slot Deposit pulsa
             </span>
@@ -1463,7 +1462,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://dinpermadesp2kb.demakkab.go.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://nangapari.sintang.go.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Deposit Pulsa
             </span>
@@ -1477,7 +1476,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://dinpermadesp2kb.demakkab.go.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://nangapari.sintang.go.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Slot Pulsa Tri
             </span>
@@ -1491,7 +1490,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://dinpermadesp2kb.demakkab.go.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://nangapari.sintang.go.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Slot Pulsa Im3
             </span>
